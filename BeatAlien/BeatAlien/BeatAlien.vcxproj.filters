@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Class">
+      <UniqueIdentifier>{e3b97d58-a346-407f-9b9f-66f0834cf083}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{e4ec4a46-d037-46c3-b4dd-f9af799ae2bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Application">
+      <UniqueIdentifier>{995f4d8c-6964-4912-bd4d-442aa0219730}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Camera">
+      <UniqueIdentifier>{4604e807-ea78-4127-8509-453b5ecfbd51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Common">
+      <UniqueIdentifier>{bdc09469-f8a0-4c6f-9388-a82d1bc4fb34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Debug">
+      <UniqueIdentifier>{6dffdf9c-12e6-4597-9584-4d701d94b38e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Light">
+      <UniqueIdentifier>{cf8d85f6-c23d-4549-8e70-d57d5c262599}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Object">
+      <UniqueIdentifier>{1ca172b2-a2c3-4e31-89d5-6f057fae2b92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Object\Model">
+      <UniqueIdentifier>{2aab7ce8-96ea-43c5-89f5-f2a26ecfb49f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Object\Texture">
+      <UniqueIdentifier>{cd7da14e-210c-4ee3-b7d1-716296844357}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Application.cpp">
+      <Filter>Class\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Class\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="Common.cpp">
+      <Filter>Class\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug.cpp">
+      <Filter>Class\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Light.cpp">
+      <Filter>Class\Light</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>Class\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Model.cpp">
+      <Filter>Class\Object\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Class\Object\Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include.h">
+      <Filter>Class</Filter>
+    </ClInclude>
+    <ClInclude Include="Application.h">
+      <Filter>Class\Application</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Class\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Common.h">
+      <Filter>Class\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Debug.h">
+      <Filter>Class\Debug</Filter>
+    </ClInclude>
+    <ClInclude Include="Light.h">
+      <Filter>Class\Light</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>Class\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Model.h">
+      <Filter>Class\Object\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Class\Object\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
