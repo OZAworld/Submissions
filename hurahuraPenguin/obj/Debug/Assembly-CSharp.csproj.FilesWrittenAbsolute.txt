@@ -1,0 +1,11 @@
+/Volumes/OZAworldUSB/huraPen_test/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Volumes/OZAworldUSB/huraPen_test/Temp/bin/Debug/Assembly-CSharp.dll
+/Volumes/OZAworldUSB/huraPen_test/obj/Debug/Assembly-CSharp.dll
+/Volumes/OZAworldUSB/huraPen_test/obj/Debug/Assembly-CSharp.dll.mdb
+/Volumes/OZAworldUSB/huraPen_test/Temp/bin/Debug/UnityEngine.dll
+/Volumes/OZAworldUSB/huraPen_test/Temp/bin/Debug/UnityEditor.dll
+/Volumes/OZAworldUSB/huraPen_test/Temp/bin/Debug/UnityEngine.UI.dll
+/Volumes/OZAworldUSB/huraPen_test/Temp/bin/Debug/Mono.Cecil.dll
+/Volumes/OZAworldUSB/huraPen_test/Temp/bin/Debug/nunit.framework.dll
+/Volumes/OZAworldUSB/huraPen_test/Temp/bin/Debug/Unity.DataContract.dll
+/Volumes/OZAworldUSB/huraPen_test/Temp/bin/Debug/ICSharpCode.NRefactory.dll
